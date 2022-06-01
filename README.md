@@ -4,4 +4,4 @@ This project aims to be a simple money handler. It is capable of recording both 
 
 ## Deploy
 
-Check out the project live at: https://dt-money-react-ignite-6ocupc43t-galdinomat.vercel.app/
+Check out the project live at: [DT Money](https://dt-money-react-ignite-6ocupc43t-galdinomat.vercel.app/)
